@@ -1,0 +1,12 @@
+{
+  "sheet_api": {
+    "sheet_id":"1J5AySFr8EH4V9FInoA-vglkN_5T4ae97fbsagNy3naw"
+  },
+  "db": {
+    "dbname": "...",
+    "user": "...",
+    "password":"...",
+    "host": "...",
+    "port": "..."
+  }
+}

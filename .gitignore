@@ -17,10 +17,10 @@ __pycache__/
 *.so
 
 # Configs
-config.json
+#config.json
 
 # Credentials
-credentials.json
+#credentials.json
 
 # logs
 logs/
